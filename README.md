@@ -1,7 +1,7 @@
 # Task list
 
 
-[![tdo.gif](https://i.postimg.cc/NfL34pGf/tdo.gif)](https://postimg.cc/ppbcVQng)
+[![todolist2.gif](https://i.postimg.cc/9QKrccn1/todolist2.gif)](https://postimg.cc/FYb9ZXmJ)
 
  It will be update during my study of frontend developer skills.
 
@@ -19,6 +19,8 @@
 ## Checkout my other projects:
 - https://lukaszszmytka.github.io/homepage/
 - https://lukaszszmytka.github.io/currencyExchange/
+- https://lukaszszmytka.github.io/to-do-list/
+- https://lukaszszmytka.github.io/currency-exchange-react/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

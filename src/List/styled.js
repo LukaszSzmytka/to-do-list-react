@@ -14,7 +14,7 @@ export const Item = styled.li`
     padding: 10px;
     border-bottom: 1px solid hsl(0, 0%, 83%);
 
-    ${({hidden}) => hidden && css`
+    ${({ hidden }) => hidden && css`
         display: none;
     `}
 `;

@@ -7,7 +7,7 @@
 
 ## Technologies and features:
 - HTML
-- CSS, Normalize CSS, BEM
+- Styled-components
 - FLEX
 - GRID
 - Media queries
@@ -15,7 +15,7 @@
 - Javascript (EC6+)
 - Immutability
 - React
-- useState, useEffect
+- useState, useEffect, useRef, own hooks
 - Local storage
 
 ## Checkout my other projects:

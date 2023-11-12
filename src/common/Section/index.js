@@ -1,6 +1,6 @@
 import { StyledSection, StyledSectionHeader, StyledSectionTitle, StyledSectionBody } from "./styled";
 
-const Section = ({title, body, extraHeaderContent}) => (
+const Section = ({ title, body, extraHeaderContent }) => (
     <StyledSection>
         <StyledSectionHeader>
           <StyledSectionTitle>{title}</StyledSectionTitle>

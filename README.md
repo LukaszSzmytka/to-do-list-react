@@ -15,8 +15,7 @@
 - Javascript (EC6+)
 - Immutability
 - React
-- useState, useEffect, useRef, own hooks
-- Local storage
+- Redux
 
 ## Checkout my other projects:
 - https://lukaszszmytka.github.io/homepage/

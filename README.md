@@ -1,9 +1,9 @@
 # Task list
 
 
-[![todolist2.gif](https://i.postimg.cc/9QKrccn1/todolist2.gif)](https://postimg.cc/FYb9ZXmJ)
+[![todolist4.gif](https://i.postimg.cc/YSy6hLcb/todolist4.gif)](https://postimg.cc/XZdGPJYC)
 
- It will be update during my study of frontend developer skills.
+ It will be updated during my training of frontend developer skills.
 
 ## Technologies and features:
 - HTML
@@ -16,6 +16,11 @@
 - Immutability
 - React
 - Redux
+- Redux-Saga
+- localStorage
+- Fetch, Axios
+- Promise, Async/Await
+- React Router
 
 ## Checkout my other projects:
 - https://lukaszszmytka.github.io/homepage/

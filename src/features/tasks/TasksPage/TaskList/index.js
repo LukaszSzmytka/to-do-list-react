@@ -1,11 +1,11 @@
-import { Link, useLocation} from "react-router-dom";
+import {useLocation} from "react-router-dom";
 import {
   toggleTaskDone,
   removeTask,
   selectHideDone,
   selectTasksByQuery,
 } from "../../tasksSlice";
-import { TasksList, Item, Content, Button } from "./styled";
+import { TasksList, Item, Content, Button, StyledLink } from "./styled";
 import { useSelector, useDispatch } from "react-redux";
 import searchQueryParamName from "../searchQueryParamName";
 
@@ -26,7 +26,7 @@ const TaskList = () => {
             {task.done ? "✓" : ""}
           </Button>
           <Content done={task.done}>
-            <Link to={`/zadania/${task.id}`}>{task.content}</Link>
+            <StyledLink to={`/zadania/${task.id}`}>{task.content}</StyledLink>
           </Content>
           <Button deleteTask onClick={() => dispatch(removeTask(task.id))}>
             🗑️
